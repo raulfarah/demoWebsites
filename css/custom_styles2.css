@@ -1,0 +1,31 @@
+    header 
+	{			                                       
+        border-radius: 10%;
+
+								background:   #9ad1f5;
+        
+	}
+	.content-left {
+        flex:1;
+        order:1;
+        min-width: 15%;						        
+								
+								background: #9ad1f5;
+                                
+    }	
+    .content-right {
+        flex:1.5;
+        order:3;
+    }
+    .content-main {
+        flex: 4;
+        order:2;   
+        min-width: 65%;
+    }    
+    
+    footer 
+       {      
+								color: #000;        
+								background: #9ad1f5;
+    }															
+    

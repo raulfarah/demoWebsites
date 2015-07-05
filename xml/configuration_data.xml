@@ -1,0 +1,328 @@
+<docRoot> 
+    <!--                     
+	    *****************************************************************************************************
+	     Your business info goes in here. Please replace only the text between the tags
+	     for example <email>your email in here</email>
+		 you do  not remove or replace the <email> and </email> tags
+		*****************************************************************************************************
+	-->
+    <business>
+		<websiteHeading>Business Name Here</websiteHeading>
+		<websiteTitle>your url and description here</websiteTitle>
+        <email> admin@tiendasystems.com</email>
+        <phone>1800-777-8899</phone>
+		<logo>Carol</logo>    
+		<copyrights>Copyright 2014 - 2015 All rights reserved </copyrights>
+		<theme>custom_styles5.css</theme>
+	</business>
+	<!-- 
+	    *****************************************************************************************************
+	                                       NAVIGATION PAGES ON THE TOP OF THE WEBSITE
+	    *****************************************************************************************************
+	-->
+	<pages>
+		<aboutus>
+			<paragraph>
+				<heading>About Us</heading>
+				<content> 
+					<![CDATA[
+					
+					We offer these Donec pede justo, fringilla vel,  aliquet nec, vulputate eget, arcu. 
+					In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.            
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.    
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. 
+					
+					Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. 
+					Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. 
+					Vestibulum lacinia arcu eget nulla. 
+					
+							 
+				]]>
+				</content>
+			</paragraph>
+            <paragraph>
+				<heading> .... </heading>
+				<content>
+				
+				<![CDATA[
+					We offer these Donec pede justo, fringilla vel,  aliquet nec, vulputate eget, arcu. 
+					In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.            
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.    
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. 
+					
+					Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. 
+					Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. 
+					Vestibulum lacinia arcu eget nulla. 
+					
+							 
+				]]>
+				</content>
+			</paragraph>
+		</aboutus>
+		<contactus>
+			<paragraph>
+				<heading>Contact Us</heading>
+				<content>
+					<![CDATA[
+					We offer these Donec pede justo, fringilla vel,  aliquet nec, vulputate eget, arcu. 
+					In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.            
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.    
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. 
+					
+					Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. 
+					Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. 
+					Vestibulum lacinia arcu eget nulla. 
+					
+							 
+				]]>
+				</content>
+			</paragraph>
+			<paragraph>
+				<heading> </heading>
+				<content><![CDATA[
+				
+				
+					We offer these Donec pede justo, fringilla vel,  aliquet nec, vulputate eget, arcu. 
+					In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.            
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.    
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. 
+					
+					Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. 
+					Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. 
+					Vestibulum lacinia arcu eget nulla. 
+					
+							 
+				]]>
+				</content>
+			</paragraph>
+		</contactus>
+    </pages>
+	
+	
+	
+	
+	<!-- 
+	     *****************************************************************************************************
+	                                    LEFT SIDE BAR LINKS 
+	     *****************************************************************************************************
+	-->
+	<left_sidebar_content>	
+		<links>
+			<link>
+				<heading>New Courses</heading>
+				<image>'images/img3.jpg'</image>				
+				<content><![CDATA[
+				
+					We offer these Donec pede justo, fringilla vel, <br/> aliquet nec, vulputate eget, arcu. 
+					In enim justo, rhoncus ut, imperdiet a, <b>venenatis</b> vitae, justo.            
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.    
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. 
+					
+					Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. 
+					Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. 
+					Vestibulum lacinia arcu eget nulla. 
+					
+					
+							 
+				]]></content>
+			</link>
+			
+			<link>
+				<heading>Services</heading>
+				<content> <![CDATA[
+					Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+					Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. 
+					Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. 
+					Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. 
+					Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. 
+					Mauris ipsum. 
+
+					Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, 
+					rhoncus ut, imperdiet a, venenatis vitae, justo. 
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.            
+				]]></content>
+			</link>
+			<link>
+				<heading>Education</heading>
+				<content> <![CDATA[
+				
+					Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. 
+					Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. 
+					Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. 
+					Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. 
+					Vestibulum sapien. Proin quam. <br/>
+
+					Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, 
+					rhoncus ut, imperdiet a, venenatis vitae, justo. <br/>
+					
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.       Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. 
+					Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. 
+					Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. 
+					Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. 
+					Vestibulum sapien. Proin quam. <br/>
+
+					Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, 
+					rhoncus ut, imperdiet a, venenatis vitae, justo. 
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.            
+				]]></content>
+			</link>
+			<link>
+				<heading>Events</heading>
+				<content> <![CDATA[
+					Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. 
+					Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. 
+					Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. 
+					Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. 
+					Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue.        
+				]]></content>
+			</link>
+			<link>
+				<heading>Calendar</heading>
+				<content> <![CDATA[
+					Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, 
+					rhoncus ut, imperdiet a, venenatis vitae, justo. 
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.           
+
+
+					
+				]]></content>
+			</link>				  
+		</links> 
+		                      <!-- end of the links,  -->
+		<article>
+			<heading>article heading 1</heading>
+			<image>'images/img3.jpg'</image>
+			<content> <![CDATA[
+			
+			
+				
+				
+			]]></content>
+		</article>
+		<article>
+			<heading>article heading 2</heading>
+			<image></image>
+			<content> <![CDATA[
+			    		
+						
+						<div class="fb-page" data-href="https://www.facebook.com/facebook" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"></div>
+
+				
+				
+			]]></content>
+		</article>
+		
+	</left_sidebar_content>	
+	<!-- 
+	     *****************************************************************************************************
+	                                    RIGHT SIDE BAR CONTENT
+	     *****************************************************************************************************
+	-->
+	
+	<right_sidebar_content>
+		<article>
+			<heading>article heading 1</heading>
+			<image>'images/img1.jpg'</image>
+			<content> <![CDATA[
+			
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. 
+				Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. 
+				Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. 
+				Vestibulum lacinia arcu eget nulla.
+				
+			]]></content>
+		</article>
+		<article>
+			<heading>article heading 2</heading>
+			<image>'images/img2.jpg'</image>
+			<content><![CDATA[
+			]]></content>
+		</article>
+		<article>
+			<heading>article heading 3</heading>
+			<image></image>
+			<content><![CDATA[
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. 
+				Sed cursus ante dapibus diam. Sed nisi. Vestibulum lacinia arcu eget nulla.
+			]]></content>
+		</article>
+		<article>
+			<heading>follow us on twiter</heading>
+			<image></image>
+			<content> <![CDATA[
+						<div class='social_media'>
+							<a href="https://twitter.com/twitter" class="twitter-follow-button" data-show-count="false">Follow @twitter</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>        
+						</div>
+						<div class='social_media'>
+
+							<!-- Place this tag where you want the +1 button to render. -->
+							<div class="g-plusone" data-annotation="inline" data-width="300"></div>
+						</div>
+			
+			]]></content>
+		</article>
+		<article>
+			<heading></heading>
+			<image></image>
+			<content> <![CDATA[
+			
+			]]></content>
+		</article>
+	</right_sidebar_content>
+	
+	<!-- 
+	     *****************************************************************************************************
+	                                    FOOTER CONTENTS 
+	     *****************************************************************************************************
+	-->
+	<footer>	
+		<links>
+			<link>
+				<heading>Privacy Policy</heading>
+				<content> <![CDATA[
+				
+				    Privacy Policy:
+					Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, 
+					rhoncus ut, imperdiet a, venenatis vitae, justo. 
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+					<br/><br/>
+					Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, 
+					rhoncus ut, imperdiet a, venenatis vitae, justo. 
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+					
+				]]></content>
+			</link>
+			<link>
+				<heading>Terms and Conditions</heading>
+				<content><![CDATA[
+				
+				    
+				    Terms and Conditions: 
+					Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, 
+					rhoncus ut, imperdiet a, venenatis vitae, justo. 
+					Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+					
+				]]></content>
+			</link>
+		</links>
+	</footer>
+	
+	<!-- 
+	    *****************************************************************************************************
+	                                    SLIDE IMAGES
+										make sure the images are located in images directory
+	    *****************************************************************************************************
+	-->
+	
+	<slideshow>
+        <images>
+			<image>img1.jpg</image>     
+        </images>   
+		<images>
+			<image>img2.jpg</image>                     
+        </images>   
+    </slideshow>		
+		
+		
+</docRoot>
